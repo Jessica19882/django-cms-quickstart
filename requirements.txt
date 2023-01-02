@@ -177,10 +177,6 @@ tinycss2==1.1.1
     # via
     #   cssselect2
     #   svglib
-tomli==2.0.1
-    # via
-    #   build
-    #   pep517
 unidecode==1.1.2
     # via django-filer
 urllib3==1.25.11
@@ -192,7 +188,7 @@ webencodings==0.5.1
     #   cssselect2
     #   html5lib
     #   tinycss2
-wheel==0.37.1
+wheel==0.38.1
     # via pip-tools
 whitenoise==5.2.0
     # via -r requirements.in
